@@ -1,0 +1,23 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem{paulnotes}
+\abntrefinfo{Dawkins}{DAWKINS}{2003}
+{DAWKINS, P. \emph{Differential Equations - Eulers Method}. 2003.
+Acessado em 24 de Dezembro de 2020.
+Dispon{\'\i}vel em:
+  \url{https://tutorial.math.lamar.edu/Classes/DE/EulersMethod.aspx}.}
+
+\bibitem{normalwiki}
+\abntrefinfo{Weisstein}{WEISSTEIN}{2020}
+{WEISSTEIN, E.~W. \emph{Normal distribution}. MathWorld--A Wolfram Web
+  Resource, 2020.
+Acessado em 24 de Dezembro de 2020.
+Dispon{\'\i}vel em:
+  \url{https://mathworld.wolfram.com/NormalDistribution.html}.}
+
+\end{thebibliography}
